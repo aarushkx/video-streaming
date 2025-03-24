@@ -10,6 +10,6 @@ This project is a video upload and streaming application built using Node.js, Ex
 
 Method | Endpoint | Description
 --- | --- | ---
-POST | `/api/v1/video/upload` | Upload a video
+POST | `/api/v1/videos/upload` | Upload a video
 GET | `/api/v1/videos/latest` | Get the latest uploaded video ID
 GET | `/api/v1/videos/:id` | Get the video URL by ID
